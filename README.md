@@ -1,3 +1,7 @@
+# Working example of axios service architecture 
+
+This repo purpose is to provide sample usage and implementation of service architecture for axios, based on blog post  [http://www.miedziak.io/axios-service-architecture](http://www.miedziak.io/axios-service-architecture).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
